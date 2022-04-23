@@ -1,7 +1,7 @@
-# Bank-Management-System
-Features 
-1.Create Bank Account.
-2.Deposit & Withdraw Money
+# Bank-Management-System\n
+Features\n
+1.Create Bank Account.\n
+2.Deposit & Withdraw Money.\n
 3.Bank Account Type Support (e.g. Current Account, Savings Account)
 4.Interest calculation depending on the Bank Account type
 5.Transaction report with a date range filter

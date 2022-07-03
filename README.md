@@ -1,14 +1,14 @@
 # Bank-Management-System
 Features
-1.Create Bank Account.
-2.Deposit & Withdraw Money.
-3.Bank Account Type Support (e.g. Current Account, Savings Account)
-4.Interest calculation depending on the Bank Account type
-5.Transaction report with a date range filter
-6.See balance after every transaction in the Transaction Report
-7.Calculate Monthly Interest Using Celery Scheduled tasks
-8.More efficient and accurate interest calculation and balance update
-9.Ability to add Minimum and Maximum Transaction amount restriction
+1.Create Bank Account.  
+2.Deposit & Withdraw Money.  
+3.Bank Account Type Support (e.g. Current Account, Savings Account)  
+4.Interest calculation depending on the Bank Account type  
+5.Transaction report with a date range filter  
+6.See balance after every transaction in the Transaction Report  
+7.Calculate Monthly Interest Using Celery Scheduled tasks  
+8.More efficient and accurate interest calculation and balance update  
+9.Ability to add Minimum and Maximum Transaction amount restriction  
 10.Modern UI with Tailwind CSS
 
 Prerequisites
